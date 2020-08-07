@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BtChat</string>
+    <string name="select_device">Select Devices</string>
 </resources>
